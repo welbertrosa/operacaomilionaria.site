@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>THATO AGENCIA DIGITAL 7D LTDA</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>THATO AGENCIA DIGITAL 7D LTDA</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Serviços</a></li>
+        <li><a href="#">Sobre Nós</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Bem-vindo à nossa agência digital</h2>
+      <p>Nós oferecemos serviços de marketing digital, desenvolvimento web e muito mais.</p>
+    </main>
+    <footer>
+      <p>THATO AGENCIA DIGITAL 7D LTDA- CNPJ: 17.133.346/0001-60</p>
+        <p>Rodovia Doutor Antonio Luiz Moura Gonzaga, 3339 - Sala 105 - RIO TAVARES - FLORIANOPOLIS - SC - 88048-300</p>
+    </footer>
+  </body>
+</html>
